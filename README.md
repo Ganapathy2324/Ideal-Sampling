@@ -51,6 +51,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/c9cfb257-128f-41a0-97a0-37dfe7fc01d2)
 ![image](https://github.com/user-attachments/assets/61803944-aea7-4ace-a144-10ef81ee5c56)
 ![image](https://github.com/user-attachments/assets/0c0b62bc-7218-4b75-be68-ea6fabe716d1)
-## RESULT
-The result of ideal sampling is a discrete-time signal that retains all the information of the original continuous-time signal is obtained and output is verified.
 
+## RESULT
+The result of ideal sampling is a discrete-time signal that retains all the information of the original continuous-time signal is obtained and output is verified
